@@ -17,7 +17,10 @@ Hello! My name is Cyphello. I am passionate about computer science. In my free t
 
 Here are some of the qualifications and certifications I hold:
 
-- **CISCO**: ITN | R&S | ENSA | Security
+- **CISCO** Intro to Networks
+- **CISCO** Routing and Switching 
+- **CISCO** Enterprise Networking Security and Automation
+- **CISCO** CCNA Security
 - **CompTia Security+**
 - **EngTech TMIET**
 - **Chartered Management Institute (CMI)** Level 5 Award in Management and Leadership
@@ -31,17 +34,17 @@ Here are some of the qualifications and certifications I hold:
 
 Here are some of the projects I've worked on:
 
-1. **Project One** - Description of the project.
-2. **Project Two** - Description of the project.
-3. **Project Three** - Description of the project.
+1. **Project One** - 
+2. **Project Two** - 
+3. **Project Three** - 
 
 ## Contact
 
 Feel free to reach out to me for more information or collaboration opportunities:
 
-- **Email**: [Your Email Here]
-- **LinkedIn**: [Your LinkedIn Profile Here]
-- **GitHub**: [Your GitHub Profile Here]
+- **Email**: 
+- **LinkedIn**: 
+- **GitHub**: 
 
 ---
 
